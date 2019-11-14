@@ -4,3 +4,8 @@
   ·Borland Turbo C 或称 Turbo C    
   ·AT&TC
   注意：关键字都是小写的
+  #include<math.h>
+  #include<stdio.h>
+main（）
+{
+}
